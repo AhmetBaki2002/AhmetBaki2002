@@ -27,8 +27,6 @@
 </div>
 <br/>
 
-
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetbaki2002&show_icons=true&theme=dracula)](https://github.com/ahmetbaki2002/github-readme-stats)
 
 <br/>
@@ -36,8 +34,7 @@
 
 ## My Github Stats
 
-[![Baki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbaki2002&show_icons=true&theme=dracula)](https://github.com/ahmetbaki2002/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ahmetbaki2002&show_icons=true&theme=dracula)](https://git.io/streak-stats)
+[![Baki's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetbaki2002&show_icons=true&theme=merko)](https://github.com/ahmetbaki2002/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ahmetbaki2002&show_icons=true&theme=dracula)](https://github.com/ahmetbaki2002/github-profile-trophy)
 
 
